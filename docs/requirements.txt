@@ -11,3 +11,4 @@ tqdm==4.66.1
 sphinx_jinja
 sphinxemoji
 sphinx_copybutton
+nbsphinx
