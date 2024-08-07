@@ -10,3 +10,4 @@ torch==2.1.2
 tqdm==4.66.1
 sphinx_jinja
 sphinxemoji
+sphinx_copybutton
