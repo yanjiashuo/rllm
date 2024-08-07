@@ -8,3 +8,4 @@ scikit_learn==1.4.0
 scipy==1.14.0
 torch==2.1.2+cu118
 tqdm==4.66.1
+sphinx_jinja
