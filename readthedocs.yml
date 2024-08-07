@@ -6,5 +6,8 @@ build:
       python: "3.8"
 
 python:
-  install:
-    - skip: true
+   install:
+      - requirements: docs/requirements.txt
+      - method: pip
+
+formats: []
