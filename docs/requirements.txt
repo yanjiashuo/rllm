@@ -12,3 +12,4 @@ sphinx_jinja
 sphinxemoji
 sphinx_copybutton
 nbsphinx
+nbsphinx_link
